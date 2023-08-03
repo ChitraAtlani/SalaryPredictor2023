@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "anaconda": "^0.0.10",
+    "sklearn": "^0.3.0"
+  }
+}
